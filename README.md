@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O formulário de matricula tem como objetivo a fixação do conteudo estudado através do curso Fullstack da Rocketseat.
+O formulário de matricula tem como objetivo a fixação do conteudo estudado através do curso Fullstack oferecido pela da Rocketseat.
 
 
 ## :memo: Licença
